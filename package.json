@@ -10,7 +10,9 @@
     "lint": "pnpm dlx @biomejs/biome lint .",
     "check": "pnpm dlx @biomejs/biome check --apply .",
     "format": "pnpm dlx @biomejs/biome format . --write",
-    "commitlint": "commitlint --edit"
+    "commitlint": "commitlint --edit",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
   },
   "keywords": ["print", "colors", "pretty"],
   "publishConfig": {
@@ -23,5 +25,8 @@
     "@commitlint/cli": "^19.0.3",
     "@commitlint/config-conventional": "^19.0.3",
     "husky": "^9.0.11"
+  },
+  "dependencies": {
+    "all-contributors-cli": "^6.26.1"
   }
 }
