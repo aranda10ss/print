@@ -1,0 +1,25 @@
+{
+  "projectName": "print",
+  "projectOwner": "aranda10ss",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "aranda10ss",
+      "name": "Ryo ϟ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157998151?v=4",
+      "profile": "https://github.com/aranda10ss",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
